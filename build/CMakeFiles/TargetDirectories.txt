@@ -1,0 +1,3 @@
+/media/lk/Seagate Backup Plus Drive/project/chessboardImage-master/build/CMakeFiles/rebuild_cache.dir
+/media/lk/Seagate Backup Plus Drive/project/chessboardImage-master/build/CMakeFiles/edit_cache.dir
+/media/lk/Seagate Backup Plus Drive/project/chessboardImage-master/build/CMakeFiles/main.dir
